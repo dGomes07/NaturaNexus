@@ -36,7 +36,6 @@ export default function App() {
         </div>
       </main>
       
-      {/* Tela da API Google Maps */}
       <div className="flex p-4">
         <div className="w-3/4 bg-white p-4 rounded-lg shadow-md">API GOOGLE MAPS</div>
         <div className="w-1/4 flex flex-col gap-2 ml-4">
@@ -48,7 +47,7 @@ export default function App() {
         </div>
       </div>
       
-      {/* Tela de Contatos */}
+     
       <div className="flex p-4">
         <div className="w-1/3 bg-white p-4 rounded-lg shadow-md">
           <h2 className="text-teal-900 font-semibold">Meu Perfil</h2>
